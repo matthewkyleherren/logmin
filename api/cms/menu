@@ -1,0 +1,152 @@
+{
+  "items": [
+    {
+      "link": {
+        "path": "/",
+        "type": "internal"
+      },
+      "thumbnail": {
+        "alt": "Homepage thumbnail",
+        "extension": "png",
+        "height": 2000,
+        "type": "image",
+        "url": "cms/4f6a8508b00df69a179304578d93ed614d258563-3000x2000.png",
+        "width": 3000
+      },
+      "title": "Homepage",
+      "type": "link"
+    },
+    {
+      "items": [
+        {
+          "link": {
+            "path": "/jeton-card",
+            "type": "internal"
+          },
+          "thumbnail": {
+            "alt": null,
+            "extension": "jpg",
+            "height": 2478,
+            "type": "image",
+            "url": "cms/2bc9ed5b8d4817448a406893182553c525f5b8ef-2478x2478.jpg",
+            "width": 2478
+          },
+          "title": "Jeton Card",
+          "type": "link"
+        },
+        {
+          "link": {
+            "path": "/fees",
+            "type": "internal"
+          },
+          "thumbnail": {
+            "alt": "TBA",
+            "extension": "jpg",
+            "height": 1670,
+            "type": "image",
+            "url": "cms/6f85636fb47a919c3b5a09e01174167f1d909443-1360x1670.jpg",
+            "width": 1360
+          },
+          "title": "Fees",
+          "type": "link"
+        }
+      ],
+      "title": "Personal",
+      "type": "group"
+    },
+    {
+      "link": {
+        "type": "external",
+        "url": "https://www.jetonbank.com"
+      },
+      "title": "Business",
+      "type": "link"
+    },
+    {
+      "items": [
+        {
+          "link": {
+            "path": "/about",
+            "type": "internal"
+          },
+          "thumbnail": {
+            "alt": "TBA",
+            "extension": "jpg",
+            "height": 2297,
+            "type": "image",
+            "url": "cms/af0e063715aaeb30c3dd198a2875e22ff8356636-2298x2297.jpg",
+            "width": 2298
+          },
+          "title": "About",
+          "type": "link"
+        },
+        {
+          "link": {
+            "path": "/newsroom",
+            "type": "internal"
+          },
+          "thumbnail": {
+            "alt": null,
+            "extension": "jpg",
+            "height": 600,
+            "type": "image",
+            "url": "cms/7d16904e7f8e88ebce4039c6f38bc4370456188b-600x600.jpg",
+            "width": 600
+          },
+          "title": "Newsroom",
+          "type": "link"
+        },
+        {
+          "link": {
+            "path": "/partnerships",
+            "type": "internal"
+          },
+          "thumbnail": {
+            "alt": null,
+            "extension": "jpg",
+            "height": 600,
+            "type": "image",
+            "url": "cms/696e2847e46fb8fbe7e6e9c560d4ae97c76e82e1-600x600.jpg",
+            "width": 600
+          },
+          "title": "Partnerships",
+          "type": "link"
+        },
+        {
+          "link": {
+            "path": "/media-assets",
+            "type": "internal"
+          },
+          "thumbnail": {
+            "alt": null,
+            "extension": "jpg",
+            "height": 600,
+            "type": "image",
+            "url": "cms/e3ecd6e55ee5d2e13b38fd1219a8385244f8ea87-600x600.jpg",
+            "width": 600
+          },
+          "title": "Media Assets",
+          "type": "link"
+        },
+        {
+          "link": {
+            "path": "/release-notes",
+            "type": "internal"
+          },
+          "thumbnail": {
+            "alt": null,
+            "extension": "jpg",
+            "height": 1200,
+            "type": "image",
+            "url": "cms/962f1a575f57a00999eaac03fa59cba22d634919-1200x1200.jpg",
+            "width": 1200
+          },
+          "title": "Release Notes",
+          "type": "link"
+        }
+      ],
+      "title": "Company",
+      "type": "group"
+    }
+  ]
+}
